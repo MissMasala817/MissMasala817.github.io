@@ -11,7 +11,7 @@ header {
 	background-size: cover;
 	padding: 2em;
 	text-align: center;
-	color: #CACEDB;
+	color: #C8CBD8;
 	background-position: center;
 }
 
@@ -24,9 +24,11 @@ header {
 	order: 1;
 	flex: 1;
 	padding: 1.5em;
+	background-color: #23403C;
 }
 
 .content {
+	background-color: #7E6C6C;
 	order: 1;
 	flex: 5;
 	padding: 1.5em;
